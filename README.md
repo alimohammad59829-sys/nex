@@ -1,0 +1,1 @@
+wifi security testing tool with evil twin and if deauth is weak then it uses dos on the followingg target to flood and stop network and this tool is for education purpose only any misuse of this tool is your own responsiblitiy
